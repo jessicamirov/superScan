@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">superScan</string>
+    <string name="mainTxt">ברוכים הבאים לסופר ארלוזורוב</string>
+    <string name="searchBar">הכנס את הברקוד שלך</string>
+    <string name="searchHing">הקש את הברקוד</string>
+    <string name="itemTxt">""</string>
+    <string name="item_not_found">Item not found</string>
+    <string name="item_details_format">Barcode: %1$d, Product: %2$s, Price: %3$.2f</string>
+    <string name="invalid_input">you need use numbers</string>
+</resources>
